@@ -1,0 +1,29 @@
+{
+  "list": [
+    {
+      "memberId": 1,
+      "id": "아이디",
+      "nickname": "스티브 잡스",
+      "imgUrl": "http://ojsfile.ohmynews.com/AT_T_IMG/2018/0921/A0002474317_T.jpg",
+      "sex": "남자"
+    },
+    {
+      "memberId": 2,
+      "id": "아이디",
+      "nickname": "일론 머스크",
+      "imgUrl": "https://image.zdnet.co.kr/2021/05/17/67d111635189bfb75ec6cccb731e561e.jpg",
+      "sex": "남자"
+    },{
+      "memberId": 3,
+      "id": "아이디",
+      "nickname": "안유진",
+      "imgUrl": "http://www.joseilbo.com/gisa_img_origin/16546678821654667882_joseedu_origin.jpg",
+      "sex": "여자"
+    },{
+      "memberId": 4,
+      "id": "아이디",
+      "nickname": "이영지",
+      "imgUrl": "https://cdn.huffingtonpost.kr/news/photo/202206/119191_233848.png",
+      "sex": "여자"
+    }
+]}
